@@ -62,7 +62,7 @@
 - Introduce **dynamic pricing** based on demand.  
 - Provide **discounts or loyalty incentives** to increase customer retention.  
 - Encourage **driver participation** in off-peak hours.  
-
+![Image](https://github.com/user-attachments/assets/42095437-2ebc-4153-88f9-d67d80408a99)
 ---
 
 ### **4️⃣ Ratings & Customer Satisfaction**  
@@ -77,7 +77,7 @@
 **Solutions:**  
 - Provide training to drivers to enhance service quality.  
 - Optimize algorithms for better ride-matching.  
-![Image](https://github.com/user-attachments/assets/42095437-2ebc-4153-88f9-d67d80408a99)
+![Image](https://github.com/user-attachments/assets/c11a0c66-1eb2-4db5-8f35-6ce25f3de13f)
 ---
 
 ### **5️⃣ Ride Volume Trends Over Time**  
@@ -114,4 +114,4 @@
 ✔ **Improve customer experience** by addressing rating patterns.  
 ✔ **Optimize pricing & incentives** for both customers and drivers.  
 ✔ **Use predictive analytics** to balance supply and demand effectively.  
-![Image](https://github.com/user-attachments/assets/c11a0c66-1eb2-4db5-8f35-6ce25f3de13f)
+
