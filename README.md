@@ -77,7 +77,7 @@
 **Solutions:**  
 - Provide training to drivers to enhance service quality.  
 - Optimize algorithms for better ride-matching.  
-
+![Image](https://github.com/user-attachments/assets/42095437-2ebc-4153-88f9-d67d80408a99)
 ---
 
 ### **5️⃣ Ride Volume Trends Over Time**  
