@@ -1,16 +1,16 @@
 # DATA-INTEGRATION-FROM-MULTIPLE-SOURCES
 
-# COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+ COMPANY: CODTECH IT SOLUTIONS PVT.LTD
 
-# NAME: Shivam Mishra
+ NAME: Shivam Mishra
 
-# INTERNID: CT12PFA
+ INTERNID: CT12PFA
 
-# DOMAIN: POWER BI
+ DOMAIN: POWER BI
 
-# DURATION: 8 WEEKS
+ DURATION: 8 WEEKS
 
-# MENTOR: NEELA SANTOSH
+ MENTOR: NEELA SANTOSH
 
 
 Based on the extracted text from your Power BI dashboard, let's perform a **deep dive analysis** of the ride-booking data.  
