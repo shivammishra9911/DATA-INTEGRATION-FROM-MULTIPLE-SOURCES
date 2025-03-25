@@ -114,4 +114,4 @@
 ✔ **Improve customer experience** by addressing rating patterns.  
 ✔ **Optimize pricing & incentives** for both customers and drivers.  
 ✔ **Use predictive analytics** to balance supply and demand effectively.  
-
+![Image](https://github.com/user-attachments/assets/c11a0c66-1eb2-4db5-8f35-6ce25f3de13f)
