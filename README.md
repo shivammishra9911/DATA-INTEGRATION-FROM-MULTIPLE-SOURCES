@@ -62,7 +62,7 @@
 - Introduce **dynamic pricing** based on demand.  
 - Provide **discounts or loyalty incentives** to increase customer retention.  
 - Encourage **driver participation** in off-peak hours.  
-![Image](https://github.com/user-attachments/assets/9280c257-96ff-4262-bd12-3daf69f80939)
+
 ---
 
 ### **4️⃣ Ratings & Customer Satisfaction**  
@@ -99,7 +99,7 @@
 📌 **Suggestions:**  
 - If **shared rides** have high cancellations, consider modifying pricing or incentives.  
 - If **premium rides** have fewer bookings, check if the pricing is too high.  
-
+![Image](https://github.com/user-attachments/assets/9280c257-96ff-4262-bd12-3daf69f80939)
 ---
 
 ### **7️⃣ Data Sources & Integrity**  
