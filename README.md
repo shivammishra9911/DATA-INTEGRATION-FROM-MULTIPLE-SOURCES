@@ -89,7 +89,7 @@
 📌 **Actionable Insights:**  
 - Identify **low-demand periods** and offer promotions to boost rides.  
 - Use **AI-based demand prediction** to better allocate drivers.  
-
+![Image](https://github.com/user-attachments/assets/064c7b77-7452-466e-8232-78799c45dfaf)
 ---
 
 ### **6️⃣ Vehicle Type Distribution**  
