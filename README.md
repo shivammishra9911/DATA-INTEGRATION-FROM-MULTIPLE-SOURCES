@@ -24,7 +24,7 @@
 **🚖 Insight:**  
 - A high number of bookings suggests an active user base and frequent ride requests.  
 - However, we need to check the distribution of successful vs. failed bookings.
-- ![Image](https://github.com/user-attachments/assets/b7467928-2f1d-4030-9eaa-018a972fc3bd)
+![Image](https://github.com/user-attachments/assets/b7467928-2f1d-4030-9eaa-018a972fc3bd)
 
 ---
 
@@ -62,7 +62,7 @@
 - Introduce **dynamic pricing** based on demand.  
 - Provide **discounts or loyalty incentives** to increase customer retention.  
 - Encourage **driver participation** in off-peak hours.  
-
+![Image](https://github.com/user-attachments/assets/9280c257-96ff-4262-bd12-3daf69f80939)
 ---
 
 ### **4️⃣ Ratings & Customer Satisfaction**  
