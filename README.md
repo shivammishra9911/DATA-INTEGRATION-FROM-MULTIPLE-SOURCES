@@ -103,7 +103,7 @@
 ---
 
 ### **7️⃣ Data Sources & Integrity**  
-- Data is coming from **Excel, SQL, OneLake, and Dataverse**.  
+- Data is coming from **Excel, SQL, OneLake**.  
 - Ensuring **real-time data synchronization** across all sources is crucial for accurate insights.  
 
 ---
