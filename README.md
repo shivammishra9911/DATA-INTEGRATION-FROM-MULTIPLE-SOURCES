@@ -23,7 +23,8 @@
 
 **🚖 Insight:**  
 - A high number of bookings suggests an active user base and frequent ride requests.  
-- However, we need to check the distribution of successful vs. failed bookings.  
+- However, we need to check the distribution of successful vs. failed bookings.
+- ![Image](https://github.com/user-attachments/assets/b7467928-2f1d-4030-9eaa-018a972fc3bd)
 
 ---
 
