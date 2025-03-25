@@ -13,8 +13,6 @@
  MENTOR: NEELA SANTOSH
 
 
-Based on the extracted text from your Power BI dashboard, let's perform a **deep dive analysis** of the ride-booking data.  
-
 ---
 
 ## **🔍 In-Depth Analysis of Ride-Booking Data**  
